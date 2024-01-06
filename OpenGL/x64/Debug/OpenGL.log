@@ -1,0 +1,35 @@
+﻿  main.cpp
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(128,11): warning C4101: 'index': unreferenced local variable
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(292,15): warning C4267: 'initializing': conversion from 'size_t' to 'GLint', possible loss of data
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(316,15): warning C4267: 'initializing': conversion from 'size_t' to 'GLint', possible loss of data
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(413,66): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(414,65): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(416,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(546,24): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(612,54): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(709,17): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(714,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(719,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(743,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(743,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(778,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(780,68): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(786,10): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(788,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(806,54): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(813,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(815,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\QP\Desktop\OpenGL\OpenGL\main.cpp(816,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  OpenGL.vcxproj -> C:\Users\QP\Desktop\OpenGL\x64\Debug\OpenGL.exe
